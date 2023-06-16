@@ -306,7 +306,7 @@ S V O C
 
 不过，这并不表示在使役动词后面一定要用原形动词当受词补语。还可以有其他的选择，例如：
 
-<u>He</u> <u>had</u> <u>his lawn</u> <u>mawned</u> by his neighbor’s kid.
+<u>He</u> <u>had</u> <u>his lawn</u> <u>mown</u> by his neighbor’s kid.
 S V O C
 (他叫邻居的小孩替他剪草地。)
 
